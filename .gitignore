@@ -1,0 +1,9 @@
+.vscode\
+\dist
+\cypress\screenshots
+\cypress\videos
+reports-multihtml
+\cypress\logs
+\mydownloads
+node_modules
+\cypress\reports
